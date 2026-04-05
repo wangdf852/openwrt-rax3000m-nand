@@ -8,7 +8,7 @@
 
 OpenWrt官方有过三种分区固件：OpenWrt stock layout、OpenWrt layout和OpenWrt U-Boot layout。
 
-OpenWrt stock layout对应保留官方分区刷OpenWrt，我称为stock固件。
+OpenWrt stock layout对应保留官方分区刷OpenWrt，我称为stock固件。 
 
 OpenWrt layout对应的就是hanwckf大佬的不死uboot(ubi 110MB)，我称为uboot固件。
 
