@@ -13,7 +13,7 @@ OpenWrt stock layout对应保留官方分区刷OpenWrt，我称为stock固件。
 OpenWrt layout对应的就是hanwckf大佬的不死uboot(ubi 110MB)，我称为uboot固件。
 
 OpenWrt U-Boot layout对应的是HZFrodo大佬的不死ubootmod(ubi 122.5MB)，我称为ubootmod固件。
-
+  
 
 目前OpenWrt官方、X-Wrt只保留了stock固件和ubootmod固件。
 
